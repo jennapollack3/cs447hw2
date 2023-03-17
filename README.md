@@ -9,3 +9,6 @@ $ Python3 app.py
 To run website,
 $ cd (to React project)
 $ npm start
+
+Set browser to url: /localhost:3000
+(package.json will proxy to 5000 for the Flask services)
