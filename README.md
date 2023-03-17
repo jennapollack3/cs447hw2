@@ -12,3 +12,4 @@ $ npm start
 
 Set browser to url: /localhost:3000
 (package.json will proxy to 5000 for the Flask services)
+![image](https://user-images.githubusercontent.com/124621738/226036350-8df03416-9601-4c65-b3c9-d81f47885aca.png)
